@@ -6,6 +6,7 @@ C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.runtime
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.runtimeconfig.dev.json
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.dll
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.pdb
+C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Flunt.dll
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -84,12 +85,11 @@ C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualS
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
 C:\Code\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.csprojAssemblyReference.cache
 C:\Code\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.AssemblyInfoInputs.cache
 C:\Code\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.AssemblyInfo.cs
 C:\Code\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.csproj.CopyComplete
 C:\Code\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.dll
 C:\Code\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.pdb
-C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Flunt.dll
-C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.dll
-C:\Code\Todo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.pdb

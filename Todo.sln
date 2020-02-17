@@ -1,15 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain", "Todo.Domain\Todo.Domain.csproj", "{618931FE-96AA-4871-97AC-1ABDB75953BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Domain", "Todo.Domain\Todo.Domain.csproj", "{618931FE-96AA-4871-97AC-1ABDB75953BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain.Api", "Todo.Domain.Api\Todo.Domain.Api.csproj", "{356C5C5E-25E1-46EC-AB9E-F153FB625D80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Domain.Api", "Todo.Domain.Api\Todo.Domain.Api.csproj", "{356C5C5E-25E1-46EC-AB9E-F153FB625D80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain.Infra", "Todo.Domain.Infra\Todo.Domain.Infra.csproj", "{9DCAA71E-3381-475F-98D4-784E1CEB0649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Domain.Infra", "Todo.Domain.Infra\Todo.Domain.Infra.csproj", "{9DCAA71E-3381-475F-98D4-784E1CEB0649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain.Tests", "Todo.Domain.Tests\Todo.Domain.Tests.csproj", "{8B919467-0CB4-4C2D-888B-EDF86DAF29B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Domain.Tests", "Todo.Domain.Tests\Todo.Domain.Tests.csproj", "{8B919467-0CB4-4C2D-888B-EDF86DAF29B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - API", "1 - API", "{C192655C-ACBD-4EAC-A134-032144ED65A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - DOMAIN", "2 - DOMAIN", "{F8DB5989-DCC9-4744-A514-94586B1BD1C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - INFRA", "3 - INFRA", "{DA530A78-1415-4EE4-9D1A-E3D74F31F718}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,9 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{618931FE-96AA-4871-97AC-1ABDB75953BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -72,5 +75,17 @@ Global
 		{8B919467-0CB4-4C2D-888B-EDF86DAF29B0}.Release|x64.Build.0 = Release|Any CPU
 		{8B919467-0CB4-4C2D-888B-EDF86DAF29B0}.Release|x86.ActiveCfg = Release|Any CPU
 		{8B919467-0CB4-4C2D-888B-EDF86DAF29B0}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{618931FE-96AA-4871-97AC-1ABDB75953BC} = {F8DB5989-DCC9-4744-A514-94586B1BD1C8}
+		{356C5C5E-25E1-46EC-AB9E-F153FB625D80} = {C192655C-ACBD-4EAC-A134-032144ED65A9}
+		{9DCAA71E-3381-475F-98D4-784E1CEB0649} = {DA530A78-1415-4EE4-9D1A-E3D74F31F718}
+		{8B919467-0CB4-4C2D-888B-EDF86DAF29B0} = {F8DB5989-DCC9-4744-A514-94586B1BD1C8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4B389B-6FA2-46F3-8047-A84BFB9C760E}
 	EndGlobalSection
 EndGlobal

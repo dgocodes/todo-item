@@ -1,11 +1,11 @@
 C:\Code\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.deps.json
 C:\Code\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.dll
 C:\Code\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Code\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Code\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
 C:\Code\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csprojAssemblyReference.cache
 C:\Code\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
 C:\Code\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Code\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete
 C:\Code\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
 C:\Code\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb
-C:\Code\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.dll
-C:\Code\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
-C:\Code\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete
